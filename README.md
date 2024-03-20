@@ -109,7 +109,7 @@ cd <YOUR SYSTEM PATH>/Nutrihelp/web-frontend
 Install all the necessary node modules that the project needs. 
 
 ```
-npm intall
+npm install
 ```
 
 Compile and run your deployment locally. 
